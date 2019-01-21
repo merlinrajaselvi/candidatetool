@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LSC.Service/1.0.0": {
+        "dependencies": {
+          "LSC.Core": "1.0.0"
+        },
+        "runtime": {
+          "LSC.Service.dll": {}
+        }
+      },
+      "LSC.Core/1.0.0": {
+        "runtime": {
+          "LSC.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LSC.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LSC.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

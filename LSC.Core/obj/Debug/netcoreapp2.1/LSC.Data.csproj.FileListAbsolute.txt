@@ -1,0 +1,9 @@
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\bin\Debug\netcoreapp2.1\LSC.Data.deps.json
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\bin\Debug\netcoreapp2.1\LSC.Data.dll
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\bin\Debug\netcoreapp2.1\LSC.Data.pdb
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\obj\Debug\netcoreapp2.1\LSC.Data.csprojAssemblyReference.cache
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\obj\Debug\netcoreapp2.1\LSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\obj\Debug\netcoreapp2.1\LSC.Data.AssemblyInfoInputs.cache
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\obj\Debug\netcoreapp2.1\LSC.Data.AssemblyInfo.cs
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\obj\Debug\netcoreapp2.1\LSC.Data.dll
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Data\obj\Debug\netcoreapp2.1\LSC.Data.pdb

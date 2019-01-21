@@ -1,0 +1,16 @@
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\bin\Debug\netcoreapp2.1\LSC.Helper.deps.json
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\bin\Debug\netcoreapp2.1\LSC.Helper.dll
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\bin\Debug\netcoreapp2.1\LSC.Helper.pdb
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.csproj.CoreCompileInputs.cache
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.AssemblyInfoInputs.cache
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.AssemblyInfo.cs
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.dll
+C:\Users\merlin.rajaselvi\Desktop\FizzBuzzCore\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.pdb
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\bin\Debug\netcoreapp2.1\LSC.Helper.deps.json
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\bin\Debug\netcoreapp2.1\LSC.Helper.dll
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\bin\Debug\netcoreapp2.1\LSC.Helper.pdb
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.csproj.CoreCompileInputs.cache
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.AssemblyInfoInputs.cache
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.AssemblyInfo.cs
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.dll
+C:\Users\merlin.rajaselvi\Desktop\LSC\LSC.Helper\obj\Debug\netcoreapp2.1\LSC.Helper.pdb

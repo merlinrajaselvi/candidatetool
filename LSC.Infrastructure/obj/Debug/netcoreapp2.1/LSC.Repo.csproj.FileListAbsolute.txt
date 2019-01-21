@@ -1,0 +1,4 @@
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Repo\obj\Debug\netcoreapp2.1\LSC.Repo.csprojAssemblyReference.cache
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Repo\obj\Debug\netcoreapp2.1\LSC.Repo.csproj.CoreCompileInputs.cache
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Repo\obj\Debug\netcoreapp2.1\LSC.Repo.AssemblyInfoInputs.cache
+C:\Users\merlin.rajaselvi\source\repos\FizzBuzzCore\LSC.Repo\obj\Debug\netcoreapp2.1\LSC.Repo.AssemblyInfo.cs
